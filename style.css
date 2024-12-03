@@ -1,3 +1,7 @@
-ul, ul li, ul li a {
-    font-size: 32px !important;
+body {
+    background-color: red;
+}
+
+ul {
+    font-size: 32px;
 }
