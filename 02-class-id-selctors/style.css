@@ -1,5 +1,5 @@
 .odd {
-    color: pink;
+    background-color: pink;
     font-style: Verdana;
 }
 
@@ -10,7 +10,7 @@
 }
 
 .four {
-    color: lightgreen;
+    background-color: lightgreen;
     font-size: 24px;
     font-style: bold;
 
