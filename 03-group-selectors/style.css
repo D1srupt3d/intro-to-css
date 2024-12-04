@@ -1,15 +1,15 @@
-#one
-#two {
+.invented
+.fancy {
     font-family: 'Times New Roman',Helvetica, sans-serif;
     font-size: 28px;
 }
 
-#one {
+.invented {
     background-color: black;
     color: white;
 
 }
 
-#two {
+.fancy {
     background-color: yellow;
 }
