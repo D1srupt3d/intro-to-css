@@ -1,15 +1,15 @@
-.one,
-.two{
+#one
+#two {
     font-family: 'Times New Roman',Helvetica, sans-serif;
     font-size: 28px;
 }
 
-.one {
+#one {
     background-color: black;
     color: white;
 
 }
 
-.two {
+#two {
     background-color: yellow;
 }
